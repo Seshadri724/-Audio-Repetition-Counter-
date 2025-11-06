@@ -3,3 +3,5 @@ pyaudio
 playsound==1.2.2
 numpy
 scipy
+Flask
+Flask-SocketIO
