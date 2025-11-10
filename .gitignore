@@ -1,0 +1,6 @@
+alarm.wav
+__pycache__/
+*.pyc
+.DS_Store
+flask_output.log
+config.json
